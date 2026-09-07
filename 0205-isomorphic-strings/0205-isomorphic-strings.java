@@ -1,19 +1,24 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        if(s.length()!=t.length()){
-            return false;
-        }
-        int map1[]=new int[256];
-        int map2[]=new int[256];
-        for(int i=0;i<s.length();i++){
-            char a=s.charAt(i);
-            char b=t.charAt(i);
-            if(map1[a]!=map2[b]){
+        Map<Character, Character> mp1 = new HashMap<>();
+        Map<Character, Character> mp2 = new HashMap<>();
+        
+        int m = s.length();
+        
+        for(int i = 0; i < m; i++) {
+            
+            char ch1 = s.charAt(i);
+            char ch2 = t.charAt(i);
+            
+            if((mp1.containsKey(ch1) && mp1.get(ch1) != ch2) || 
+               (mp2.containsKey(ch2) && mp2.get(ch2) != ch1)) {
                 return false;
             }
-            map1[a]=i+1;
-            map2[b]=i+1;
+            
+            mp1.put(ch1, ch2);
+            mp2.put(ch2, ch1);
         }
+        
         return true;
     }
 }
