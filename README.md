@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mdsinghrathore/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mdsinghrathore/LeetCode/tree/master/0041-first-missing-positive) |
+| [0205-isomorphic-strings](https://github.com/mdsinghrathore/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mdsinghrathore/LeetCode/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/mdsinghrathore/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
