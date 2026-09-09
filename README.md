@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mdsinghrathore/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/mdsinghrathore/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mdsinghrathore/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/mdsinghrathore/LeetCode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/mdsinghrathore/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/mdsinghrathore/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0086-partition-list) |
 ## Hash Table
 |  |
@@ -38,4 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mdsinghrathore/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/mdsinghrathore/LeetCode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mdsinghrathore/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mdsinghrathore/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
