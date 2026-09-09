@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/mdsinghrathore/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/mdsinghrathore/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/mdsinghrathore/LeetCode/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mdsinghrathore/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mdsinghrathore/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/mdsinghrathore/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/mdsinghrathore/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
@@ -25,10 +27,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mdsinghrathore/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/mdsinghrathore/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/mdsinghrathore/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/mdsinghrathore/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
