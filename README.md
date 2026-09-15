@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -100,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mdsinghrathore/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
