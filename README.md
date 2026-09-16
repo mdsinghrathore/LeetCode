@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mdsinghrathore/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/mdsinghrathore/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mdsinghrathore/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mdsinghrathore/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mdsinghrathore/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/mdsinghrathore/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/mdsinghrathore/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/mdsinghrathore/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
@@ -110,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mdsinghrathore/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
