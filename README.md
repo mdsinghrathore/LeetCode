@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mdsinghrathore/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/mdsinghrathore/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mdsinghrathore/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/mdsinghrathore/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mdsinghrathore/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/mdsinghrathore/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/mdsinghrathore/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mdsinghrathore/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mdsinghrathore/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mdsinghrathore/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/mdsinghrathore/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mdsinghrathore/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mdsinghrathore/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdsinghrathore/LeetCode/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/mdsinghrathore/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
