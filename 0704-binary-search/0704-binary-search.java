@@ -1,0 +1,23 @@
+class Solution {
+    public int search(int[] nums, int target) {
+        int a=0;
+        int b=nums.length-1;
+        while(a<=b){
+            int c=(a+b)/2;
+            if(nums[a]==target){
+                return a;
+                }
+            if(nums[b]==target){
+                return b;
+            }
+            if(nums[c]==target){
+                return c;
+            }else if(nums[c]>target){
+                b= c-1;
+            }else{
+                a=c+1;
+            }
+        }
+        return -1;
+    }
+}
