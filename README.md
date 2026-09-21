@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mdsinghrathore/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/mdsinghrathore/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/mdsinghrathore/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/mdsinghrathore/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mdsinghrathore/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/mdsinghrathore/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
