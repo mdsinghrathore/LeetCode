@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mdsinghrathore/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mdsinghrathore/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/mdsinghrathore/LeetCode/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mdsinghrathore/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mdsinghrathore/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/mdsinghrathore/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mdsinghrathore/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/mdsinghrathore/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mdsinghrathore/LeetCode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mdsinghrathore/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/mdsinghrathore/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mdsinghrathore/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mdsinghrathore/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/mdsinghrathore/LeetCode/tree/master/0326-power-of-three) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mdsinghrathore/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/mdsinghrathore/LeetCode/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
