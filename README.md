@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mdsinghrathore/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mdsinghrathore/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdsinghrathore/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/mdsinghrathore/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/mdsinghrathore/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/mdsinghrathore/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mdsinghrathore/LeetCode/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mdsinghrathore/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/mdsinghrathore/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/mdsinghrathore/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mdsinghrathore/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mdsinghrathore/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/mdsinghrathore/LeetCode/tree/master/0326-power-of-three) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mdsinghrathore/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/mdsinghrathore/LeetCode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
@@ -210,4 +213,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mdsinghrathore/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mdsinghrathore/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mdsinghrathore/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mdsinghrathore/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mdsinghrathore/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
