@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mdsinghrathore/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mdsinghrathore/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/mdsinghrathore/LeetCode/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
@@ -87,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/mdsinghrathore/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mdsinghrathore/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/mdsinghrathore/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mdsinghrathore/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/mdsinghrathore/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Memoization
@@ -320,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mdsinghrathore/LeetCode/tree/master/0039-combination-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
