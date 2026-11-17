@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mdsinghrathore/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdsinghrathore/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/mdsinghrathore/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mdsinghrathore/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/mdsinghrathore/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mdsinghrathore/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/mdsinghrathore/LeetCode/tree/master/0704-binary-search) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mdsinghrathore/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mdsinghrathore/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/mdsinghrathore/LeetCode/tree/master/0148-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/mdsinghrathore/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/mdsinghrathore/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/mdsinghrathore/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/mdsinghrathore/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mdsinghrathore/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/mdsinghrathore/LeetCode/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/mdsinghrathore/LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/mdsinghrathore/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mdsinghrathore/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
